@@ -1,0 +1,1 @@
+[[note1]], [[note2]], [[canvas0.canvas|canvas0]] or [the Importer](https://help.obsidian.md/Plugins/Importer)

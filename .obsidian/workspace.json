@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "298c80fa8c357f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "adf2e585d74b7e3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4028799f5d1062ad",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "folder0/canvas0.canvas",
+                "viewState": {
+                  "x": 220,
+                  "y": 10,
+                  "zoom": -0.02795722954777989
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "137b0bb2dc0b83c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c31cd62e51ff7cb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7f97c81e4a61497",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "680fdf4a3c8092af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30ce4d31d19bb1eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ace6fde4fc99aa4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "abe99cacebaa1847",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee55807f2e9c3a9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "folder0/canvas0.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af867dd1c5969cbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "folder0/canvas0.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e5d029179703622",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fa6076b2bf42bcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "folder0/canvas0.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "4028799f5d1062ad",
+  "lastOpenFiles": [
+    "folder0/note1.md",
+    "folder0/note2.md",
+    "folder0/canvas0.canvas",
+    "note0.md",
+    "folder0"
+  ]
+}
